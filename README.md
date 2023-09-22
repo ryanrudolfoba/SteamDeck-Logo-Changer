@@ -54,26 +54,26 @@ This has been tested on BIOS 116 and BIOS118.
    ./steamdeck-logo-changer.sh
    
 4. The script will check if sudo passwword is already set.\
-![image](https://github.com/ryanrudolfoba/SteamDeck-dualboot/assets/98122529/3598af4f-c6b5-46f3-812e-9180f0bcc5a5)
+![image](https://github.com/ryanrudolfoba/SteamDeck-Logo-Changer/assets/98122529/1180b8a2-3c98-47ef-8fb1-1adc1f5ed470)
 
    a. If the sudo password is already set, enter the current sudo password and the script will continue to run and the main menu will be displayed. \
-   ![image](https://github.com/ryanrudolfoba/SteamDeck-dualboot/assets/98122529/143d5f8b-1ead-48fb-9e60-cb2d33bf932b)
-
+   ![image](https://github.com/ryanrudolfoba/SteamDeck-Logo-Changer/assets/98122529/004395f6-d69b-48d2-9a8a-b9621668901b)
 
    b. If wrong sudo password is provided the script will show an error message. Re-run the script and enter the correct sudo password!\
-![image](https://github.com/ryanrudolfoba/SteamDeck-dualboot/assets/98122529/9aacd5d1-730f-4da5-9f68-ad6a435f8779)
-
+   ![image](https://github.com/ryanrudolfoba/SteamDeck-Logo-Changer/assets/98122529/9566eb35-174b-43d5-b203-00ec3954db76)
          
    c. If the sudo password is blank / not yet set, the script will prompt to setup the sudo password. Re-run the script again to continue.\
-![image](https://github.com/ryanrudolfoba/SteamDeck-dualboot/assets/98122529/d927ab36-269b-4a2f-8f3d-4e68d5cea0d9)
+   ![image](https://github.com/ryanrudolfoba/SteamDeck-Logo-Changer/assets/98122529/1cf6bb68-f9c8-48b0-91ec-ef75d1ddd9ea)
 
-5. Main menu. Make your selection.\
-![image](https://github.com/ryanrudolfoba/SteamDeck-dualboot/assets/98122529/0d43f526-c906-4b7a-9b7f-a4bada95c06d)
 
-6. Click the Logo button and then press OK. A list of available logos will be displayed. Choose the one that will be set as the default logo and press OK. \
-![image](https://github.com/ryanrudolfoba/SteamDeck-dualboot/assets/98122529/7cba1f86-86f7-4e44-89ae-5bba470d1bf7)
-![image](https://github.com/ryanrudolfoba/SteamDeck-dualboot/assets/98122529/28a16b99-27f3-4130-b2f0-642b3add16e1)
-![image](https://github.com/ryanrudolfoba/SteamDeck-dualboot/assets/98122529/13896acd-d4ae-46d7-ae05-1c882c464a16)
+6. Main menu. Make your selection.\
+![image](https://github.com/ryanrudolfoba/SteamDeck-Logo-Changer/assets/98122529/4717ac87-82cf-4fad-872f-7688953b4865)
+
+7. Click the Logo button and then press OK. A list of available logos will be displayed. Choose the one that will be set as the default logo and press OK. \
+![image](https://github.com/ryanrudolfoba/SteamDeck-Logo-Changer/assets/98122529/4075909c-6a8d-4242-be83-e70f217d4e7f)
+![image](https://github.com/ryanrudolfoba/SteamDeck-Logo-Changer/assets/98122529/75161f11-3e21-4f35-89b0-dbdf7a161dcc)
+![image](https://github.com/ryanrudolfoba/SteamDeck-Logo-Changer/assets/98122529/7368f6ac-25f3-40a8-af47-bb8c00c076e5)
+
      
 8. Press the EXIT button then press OK to close the application.
 9. Reboot the Steam Deck for changes to take effect! 
