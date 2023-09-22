@@ -12,7 +12,7 @@ Credits to Discord user balika011 for the idea! I scripted it to make it easy to
 <b> If you like my work please show support by subscribing to my [YouTube channel @10MinuteSteamDeckGamer.](https://www.youtube.com/@10MinuteSteamDeckGamer/) </b> <br>
 <b> I'm just passionate about Linux, Windows, how stuff works, and playing retro and modern video games on my Steam Deck! </b>
 <p align="center">
-<a href="https://www.youtube.com/@10MinuteSteamDeckGamer/"> <img src="https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot/blob/main/10minute.png"/> </a>
+<a href="https://www.youtube.com/@10MinuteSteamDeckGamer/"> <img src="https://github.com/ryanrudolfoba/SteamDeck-Logo-Changer/blob/main/10minute.png"/> </a>
 </p>
 
 <b>Monetary donations are also encouraged if you find this project helpful. Your donation inspires me to continue research on the Steam Deck! Clover script, 70Hz mod, SteamOS microSD, Secure Boot, etc.</b>
@@ -27,12 +27,15 @@ Credits to Discord user balika011 for the idea! I scripted it to make it easy to
 1. Do this at your own risk!
 2. This is for educational and research purposes only!
 
-## [Video Tutorial - How to Install Clover for Steam Deck dual boot](https://www.youtube.com/watch?v=heo2yFycnsM)
-[Click the image below for a video tutorial and to see the functionalities of the script!](https://www.youtube.com/watch?v=heo2yFycnsM)
+## [Video Tutorial - How to Use this Script to Change the Steam Deck Logo](https://youtu.be/-pBlEceVZs8)
+[Click the image below for a video tutorial!](https://youtu.be/-pBlEceVZs8)
 </b>
 <p align="center">
-<a href="https://www.youtube.com/watch?v=heo2yFycnsM"> <img src="https://github.com/ryanrudolfoba/SteamDeck-Clover-dualboot/blob/main/banner.png"/> </a>
+<a href="https://youtu.be/-pBlEceVZs8"> <img src="https://github.com/ryanrudolfoba/SteamDeck-Logo-Changer/blob/main/banner.png"/> </a>
 </p>
+
+## WARNING
+This has been tested on BIOS 116 and BIOS118.
 
 ## What's New (as of September 21 2023)
 1. initial release
