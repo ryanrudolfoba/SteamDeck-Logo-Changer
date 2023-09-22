@@ -20,7 +20,7 @@ then
 	fi
 
 else
-	echo -e "$RED"Sudo password is blank! Setup a sudo password first and then re-run script!
+	echo Sudo password is blank! Setup a sudo password first and then re-run script!
 	passwd
 	exit
 fi
