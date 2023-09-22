@@ -33,7 +33,7 @@ Choice=$(zenity --width 750 --height 250 --list --radiolist --multiple 	--title 
 	--column="Description - Read this carefully!"\
 	FALSE Logo "Change the logo that will be displayed when powering on the Steam Deck."\
 	FALSE Restore "Restore the default original logo."\
-	TRUE EXIT "***** Exit this script without making any changes *****")
+	TRUE EXIT "***** Exit this script *****")
 
 if [ $? -eq 1 ] || [ "$Choice" == "EXIT" ]
 then
