@@ -87,7 +87,7 @@ If you want to use your own logos it is very easy!
 
 ## How to Restore the Default Logo
 1. To restore the default logo, run the script and click the Restore button then press OK.
-![image](https://github.com/ryanrudolfoba/SteamDeck-dualboot/assets/98122529/3d32c1e3-4fca-40f1-9897-76f4d016a851)
-![image](https://github.com/ryanrudolfoba/SteamDeck-dualboot/assets/98122529/8f6be37e-09cc-4746-86e1-c6daff03a35d)
+![image](https://github.com/ryanrudolfoba/SteamDeck-Logo-Changer/assets/98122529/b97ed3f0-dfca-4e37-b2be-5c0082e1caa5)
+![image](https://github.com/ryanrudolfoba/SteamDeck-Logo-Changer/assets/98122529/fdf7a89b-628d-4470-9144-9389a5f9d754)
 
 2. Reboot the Steam Deck for changes to take effect!
